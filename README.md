@@ -2,7 +2,7 @@
 Hello everyone! I’m MD Saifullah, a student from a small city in one of India’s largest states, currently preparing for the JEE. Ever since I was a kid, I’ve been deeply fascinated by coding, which led me to pursue my dream of becoming a Software Engineer.
 
 - 🔭 I'm currently working on two of my projects first [Virtual-PeriodicTable](https://github.com/LiOS-org/Virtual-PeriodicTable) and second [LiOS-Colors](https://github.com/LiOS-org/LiOS-Colors).
-- 🌱 I’m currently learning C++ and Java.
+- 🌱 I’m currently learning C++ and Java Script.
 - Also familiar with HTML and CSS.
 - 🤔 I’m always open to help, suggestions, or feedback — feel free to reach out!
 - 💬 I’ll do my best to answer based on my current knowledge (which is still growing every day).
